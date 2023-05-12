@@ -2,11 +2,11 @@
 一个提供API接口供开发者调用的平台,管理员可以接入并发布接口，统计分析各接口的调用情况，用户可以注册登录，浏览接口及在线调试,也可以使用客户端SDK轻松在代码中调用。
 > 在线体验地址：http://iamshaonian.top:8000/  
 > 
-> 前端项目地址：  
+> 前端项目地址： https://github.com/shaonianjzh/api-frontend 
 > 
-> 后端项目地址：
+> 后端项目地址：https://github.com/shaonianjzh/api-project
 ## 项目架构
-<img src="C:\Users\少年\AppData\Roaming\Typora\typora-user-images\image-20230512142427856.png" alt="image-20230512142427856" style="zoom: 80%;" align=left  />
+<img src="./src/image/image-20230512142427856.png" alt="image-20230512142427856" style="zoom: 80%;" align=left  />
 
 ## 后端项目模块说明
 - api-backend：项目主体，包括用户，接口管理相关功能
