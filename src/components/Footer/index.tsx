@@ -1,7 +1,7 @@
 import { DefaultFooter } from '@ant-design/pro-components';
 import '@umijs/max';
 const Footer: React.FC = () => {
-  const defaultMessage = 'API接口开放平台';
+  const defaultMessage = 'API接口侠';
   const currentYear = new Date().getFullYear();
   return (
     <DefaultFooter

@@ -32,6 +32,7 @@ export async function getInitialState(): Promise<InitialState> {
 // ProLayout 支持的api https://procomponents.ant.design/components/layout
 export const layout: RunTimeLayoutConfig = ({ initialState, setInitialState }) => {
   return {
+    logo: "http://iamshaonian.top:81/jiekou.svg",
     layout: "top",
     rightContentRender: () => <RightContent />,
     waterMarkProps: {

@@ -28,17 +28,9 @@ const GlobalHeaderRight: React.FC = () => {
             value: 'umi ui',
           },
           {
-            label: <a href="next.ant.design">API接口</a>,
-            value: 'xc接口',
-          },
-          {
-            label: <a href="https://protable.ant.design/">Pro Table</a>,
-            value: 'Pro Table',
-          },
-          {
-            label: <a href="https://prolayout.ant.design/">Pro Layout</a>,
-            value: 'Pro Layout',
-          },
+            label: <a href="next.ant.design">API接口侠</a>,
+            value: 'API接口',
+          }
         ]}
         // onSearch={value => {
         //   console.log('input', value);
